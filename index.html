@@ -4,31 +4,39 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="style.css" />
     <title>Order Summary</title>
   </head>
   <body>
     <main>
-      <header>
-        <img src="" alt="" srcset="" />
-      </header>
+      <img
+        class="hero-image"
+        src="./images/illustration-hero.svg"
+        alt="person listening to music"
+      />
       <section>
-        <div>
-          <h1>Order Summary</h1>
+        <div class="order">
+          <h2>Order Summary</h2>
           <p>
             You can now listen to millions of songs, audiobook, and podcasts on
             any devices anywhere you like!
           </p>
         </div>
-        <div>
-          <img src="" alt="" srcset="" />
+        <div class="pricing">
+          <img src="./images/icon-music.svg" alt="music icon" />
 
-          <p>Annual Plan $59.99/year</p>
-          <a href="#">change</a>
+          <p>Annual Plan <span>$59.99/year</span></p>
+          <a href="#">Change</a>
         </div>
         <div>
-          <button type="submit">Proceed to Payment</button>
-          <button type="submit">Cancel Order</button>
+          <button class="payment" type="submit">Proceed to Payment</button>
+          <button class="cancel-payment" type="submit">Cancel Order</button>
         </div>
       </section>
     </main>
