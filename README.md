@@ -25,8 +25,8 @@ Order Summary Component is a Solution to a beginner project on FrontEnd MEntor u
 
 ### Links
 
-- Solution URL: [FrontEnd MEntor](https://www.frontendmentor.io/solutions/nft-preview-card-component-with-html-and-css-yBJpXNP31m)
-- Live Site URL: [Github webpage](https://bodv6.github.io/nft-preview-card-component/)
+- Solution URL: [FrontEnd MEntor](https://www.frontendmentor.io/solutions/order-summarry-component-using-html-and-css-only-apxEXqQMS3)
+- Live Site URL: [Github webpage](https://bodv6.github.io/Order-Summary-Component/)
 
 ### Built with
 
